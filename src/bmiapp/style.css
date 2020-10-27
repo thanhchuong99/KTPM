@@ -22,7 +22,7 @@ Text.Subject {
 }
 
 Button {
-    -fx-background-color: red;
+    -fx-background-color: blueviolet;
     -fx-text-fill: gold;
 }
 
