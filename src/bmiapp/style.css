@@ -10,7 +10,7 @@ and open the template in the editor.
 
 .Bg {
     -fx-background-color: darkblue;
-    -fx-padding: 10;
+    -fx-padding: 20;
 }
 
 Text.Subject {
